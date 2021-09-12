@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AngelJohank
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning game developing in godot and developing in c++
+- 🌱 I’m currently learning game development, c++ and a little bit of web dev
 - 📫 How to reach me ...
 
 <!---
