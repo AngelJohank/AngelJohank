@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AngelJohank
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning game development, c++ and a little bit of web dev
+- 🌱 About to be a full stack web developer
 - 📫 How to reach me: angeljohank@gmail.com
 
 <!---
