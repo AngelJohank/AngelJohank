@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AngelJohank
 - 👀 I’m interested in learning new things
-- 🌱 About to be a full stack web developer
 
 
 <!---
